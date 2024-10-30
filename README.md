@@ -1,6 +1,6 @@
 # Dmoney and Booking API performance Testing 
 
-## Project Summary:  Here I created a jmeter collection for performace testing to ensure whether this server will be stable or not, analyze the entire server behavior when user  send request to this server and indentify  the load , capacity and stress level for this server . In the second part , I have created Login  and Transaction for Deposit, Sendmoney, Payment and Withdraw . I tested all of these using jmeter.
+## Project Summary:  This JMeter collection is designed for performance testing to assess server stability, analyze server behavior under user requests, and determine load, capacity, and stress limits. It includes tests for Login and Transaction operations (Deposit, Sendmoney, Payment, and Withdraw), ensuring each function is evaluated under various conditions to identify performance thresholds.
 
 ## Technologies I have used :
 - Postman
